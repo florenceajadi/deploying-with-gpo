@@ -97,9 +97,6 @@ Used gpupdate /force on command prompt to check updates.
   
 <p>
 My Screen Wallpaper is now CYBERGIRL.com </p>
-<p>
-  <img src="" height="80%" width="80%""/>
-</p>
 
 <p>
     Jeremy Collins is now added to the Sales group. We can even look into Jeremy Collins' account to see who is a member of. 
